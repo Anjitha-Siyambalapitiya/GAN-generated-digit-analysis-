@@ -1,5 +1,5 @@
 # MNIST GAN and Classifier Study
-📌 Project Overview
+## 📌 Project Overview
 This project explored how a Generative Adversarial Network (GAN) can generate digit images similar to the MNIST dataset and how well a classifier trained on MNIST performs when tested on both real and fake images.
 
 The steps followed were:
