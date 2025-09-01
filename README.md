@@ -12,7 +12,7 @@ Tested the classifier on both real MNIST images and GAN-generated images.
 
 ## 🔬 Observations
 Classifier error rate on real MNIST data: 1%
-Classifier error rate on GAN-generated fake data: 4%
+Classifier error rate on GAN-generated fake data: 6.09%
 This shows that GAN-generated digits are fairly realistic, but they still contain small distortions that make classification slightly harder compared to real MNIST images.
 
 ## 📊 Results
